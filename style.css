@@ -5,6 +5,11 @@ header{
     background-color: #1F2937;
 }
 
+.hero{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
 .hero .heading{
     font-size: 48px;
     color: #F9FAF8;
