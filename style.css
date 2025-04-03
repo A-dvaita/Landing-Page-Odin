@@ -15,3 +15,8 @@ header{
     color: #F9FAF8;
     font-weight: 900;
 }
+
+li:nth-of-type(1){
+    font-size: 24px;
+    color: #F9FAF8;
+}
