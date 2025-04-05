@@ -23,11 +23,6 @@ header{
     padding-top: 16px;
 }
 
-.bottom-header{
-    display: flex;
-    flex-direction: column;
-}
-
 .logo{
     font-size: 24px;
     color: #F9FAF8;
@@ -41,6 +36,7 @@ header{
     color: #E5E7EB;
     display: flex;
     flex-direction: column;
+    width: 700px;
 }
 
 .hero .heading{
@@ -66,11 +62,6 @@ nav ul{
     display: inline-flex;
     justify-content: flex-end;
     gap: 25px;
-}
-
-.header-img{
-    display: flex;
-    justify-content: flex-end;
 }
 
 button{
