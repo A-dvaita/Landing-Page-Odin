@@ -57,4 +57,5 @@ ul{
 nav ul{
     display: inline-flex;
     justify-content: flex-end;
+    gap: 25px;
 }
