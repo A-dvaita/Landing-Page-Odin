@@ -36,6 +36,7 @@ header{
     color: #E5E7EB;
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
     width: 700px;
 }
 
