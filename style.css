@@ -23,6 +23,10 @@ header{
     padding-top: 16px;
 }
 
+.bottom-header{
+    display: flex;
+}
+
 .logo{
     font-size: 24px;
     color: #F9FAF8;
