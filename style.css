@@ -123,6 +123,11 @@ figcaption{
 
 .quote-section{
     background-color: #E5E7EB;
+    padding-left: 450px;
+    padding-right: 450px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    gap: 35px;
 }
 
 .quote{
@@ -134,4 +139,6 @@ figcaption{
 .quote-by{
     font-size: 20px;
     color: black;
+    display: flex;
+    justify-content: flex-end;
 }
