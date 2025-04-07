@@ -152,3 +152,8 @@ figcaption{
 .messages{
     color: #F9FAF8;
 }
+
+.action-box{
+    display: flex;
+    justify-content: space-around;
+}
