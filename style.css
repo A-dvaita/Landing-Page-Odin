@@ -124,3 +124,9 @@ figcaption{
 .quote-section{
     background-color: #E5E7EB;
 }
+
+.quote{
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
