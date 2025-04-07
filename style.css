@@ -144,3 +144,7 @@ figcaption{
     display: flex;
     justify-content: flex-end;
 }
+
+.call-to-action{
+    background-color: #3882F6;
+}
