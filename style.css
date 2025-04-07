@@ -115,4 +115,5 @@ figcaption{
     width: 212px;
     display: flex;
     flex-wrap: wrap;
+    text-align: center;
 }
