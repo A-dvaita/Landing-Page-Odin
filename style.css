@@ -119,6 +119,7 @@ figcaption{
     flex-wrap: wrap;
     text-align: center;
     color: dimgrey;
+    font-size: 18px;
 }
 
 .quote-section{
