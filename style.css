@@ -105,3 +105,8 @@ figure{
     display: flex;
     flex-direction: column;
 }
+
+.figures{
+    display: flex;
+    justify-content: center;
+}
