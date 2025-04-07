@@ -110,3 +110,9 @@ figure{
     display: flex;
     justify-content: center;
 }
+
+figcaption{
+    width: 212px;
+    display: flex;
+    flex-wrap: wrap;
+}
