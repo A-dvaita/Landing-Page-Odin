@@ -186,3 +186,7 @@ figcaption{
     align-items: center;
     padding: 33px;
 }
+
+a{
+    text-decoration: none;
+}
