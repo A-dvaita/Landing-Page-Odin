@@ -127,7 +127,9 @@ figcaption{
     padding-right: 450px;
     padding-top: 100px;
     padding-bottom: 100px;
-    gap: 35px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
 }
 
 .quote{
