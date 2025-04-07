@@ -100,3 +100,8 @@ button{
     display: flex;
     justify-content: center;
 }
+
+figure{
+    display: flex;
+    flex-direction: column;
+}
