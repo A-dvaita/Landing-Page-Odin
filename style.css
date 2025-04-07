@@ -122,6 +122,10 @@ figcaption{
     font-size: 18px;
 }
 
+.info-tab{
+    padding-bottom: 90px;
+}
+
 .quote-section{
     background-color: #E5E7EB;
     padding-left: 450px;
