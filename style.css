@@ -172,3 +172,13 @@ figcaption{
     height: auto;
     font-weight: bold;
 }
+
+.footer{
+    background-color: #1F2937;
+    color: whitesmoke;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 33px;
+}
